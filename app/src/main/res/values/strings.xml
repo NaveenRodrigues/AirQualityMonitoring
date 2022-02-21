@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Air Quality Monitoring</string>
+    <string name="city">CITY</string>
+    <string name="aqi">AQI</string>
+    <string name="last_updated">LAST UPDATED</string>
+    <string name="good">Good</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="moderate">Moderate</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    <string name="severe">Severe</string>
+</resources>

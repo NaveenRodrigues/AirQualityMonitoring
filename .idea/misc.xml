@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/Air_Quality_Standard_background.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/air_quality_standard.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/airquality_standard_background.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/fade_blue.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/ic_protruding_squares_header.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/marker_background.xml" value="0.1453125" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/drawable/shape_rectangle.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/activity_city_aqiactivity.xml" value="0.264" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/custom_marker_view.xml" value="0.128125" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/fragment_detail_a_q_i_activity.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/head_layout.xml" value="0.2" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/list_layout.xml" value="0.1" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/layout/recycler_layout.xml" value="0.12" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/mipmap-anydpi-v26/Air_Quality_Standard.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/mipmap-anydpi-v26/Air_Quality_Standard_round.xml" value="0.19794871794871796" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/mipmap-anydpi-v26/airquality_standard.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/navee/AndroidStudioProjects/AirQualityMonitoring/app/src/main/res/mipmap-anydpi-v26/airquality_standard_round.xml" value="0.19814814814814816" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="Air_Quality_Monitoring.app" />
+      </set>
+    </option>
+  </component>
+</project>
