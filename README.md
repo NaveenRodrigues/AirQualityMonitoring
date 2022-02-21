@@ -9,6 +9,7 @@ We are using Room library for database operations and ohHttp library for socket 
 Assumptions:
 1. Data is added to db only if there is a change is AQI score and with interval of 30 seconds.
 2. The updated time is the time when data is added to DB.
+3. Graph library used is https://github.com/PhilJay/MPAndroidChart.git
 
 Future enhancements:
 1. Have a single activity and multiple fragments. Implement Navigation using Android Navigation.
